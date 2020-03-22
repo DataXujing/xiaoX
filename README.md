@@ -20,7 +20,7 @@
 
 
 
-> 增加了Pytoech版本的Seq2Seq的训练和推断：
+> 增加了Pytorch版本的Seq2Seq的训练和推断：
 
 在当前repo下的pytorch分支：
 <https://github.com/DataXujing/xiaoX/tree/pytorch>
