@@ -1,4 +1,4 @@
-tensorflow==1.5.0
+tensorflow==1.15.2
 jieba
 flask
 redis
